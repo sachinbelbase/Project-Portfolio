@@ -52,6 +52,7 @@ section {
     padding: 25px;
     background: white;
     border-radius: 8px;
+    scroll-margin-top:80px;
 }
 
 /* Home */
